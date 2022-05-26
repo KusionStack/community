@@ -10,7 +10,7 @@ A ***user*** is someone that uses KusionStack. They contribute to KusionStack pr
 
 A ***contributor*** is a user who contributes to the project in the form of code or documentation. They take extra steps to participate in a project, are active on the community, participate in discussions, provide patches, documentation, suggestions, and criticism. 
 
-## Committer
+## Maintainer
 
-A ***committer*** is a developer that was given **write access** to the code repository. Not needing to depend on other people for the patches, they are actually making short-term decisions for the project. The PMC can (even tacitly) agree and approve it into permanency, or they can reject it. Remember that the PMC makes the decisions, not the individual committers.
+A Maintainer has the ability to merge code into the KusionStack project. Maintainers are active Contributors and participants in the projects. In order to become a Maintainer, you must be nominated and approved by the established Maintainers. Maintainers have write access to the KusionStack repos on GitHub.
 
