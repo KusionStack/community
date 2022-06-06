@@ -4,6 +4,10 @@ Welcome to the KusionStack community!
 
 This is the starting point for becoming a contributor - improving code and docs, giving talks, etc.
 
+## KusionStack Open Day
+
+- [2022/open-day/README.md](2022/open-day/README.md)
+
 ## Other documents
 
 - [Community Roles](ROLES.md) - describes the roles individuals can assume within the KusionStack community.
