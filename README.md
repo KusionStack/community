@@ -26,8 +26,8 @@ KusionStack is an open source project started by [Ant Group](https://www.antgrou
 
 ## Community meeting
 
-- Saturday 8:00 PM CST(Beijing) ([钉钉(DingTalk)](https://h5.dingtalk.com/circle/healthCheckin.html?cbdbhh=qwertyuiop&dtaction=os&4ebe6=d3d59&corpId=ding707e3346ab188ded2040d0a6270bd858)) every other week
-- Meeting notes (Github Wiki): https://github.com/KusionStack/community/wiki
+- Thursday 8:00 PM CST(Beijing 北京时间周四晚 8:00) ([钉钉(DingTalk ID 42753001)](https://h5.dingtalk.com/circle/healthCheckin.html?cbdbhh=qwertyuiop&dtaction=os&4ebe6=d3d59&corpId=ding707e3346ab188ded2040d0a6270bd858)) every other week
+- Meeting notes: https://github.com/KusionStack/community/discussions/categories/meeting
 
 ## Tutorials
 
@@ -41,7 +41,7 @@ See [the contributing document](CONTRIBUTING.md).
 
 ## Contact
 
-- [Slack](https://join.slack.com/t/kusionstack/shared_invite/zt-19lqcc3a9-_kTNwagaT5qwBE~my5Lnxg)
-- [钉钉(DingTalk)](https://h5.dingtalk.com/circle/healthCheckin.html?cbdbhh=qwertyuiop&dtaction=os&4ebe6=d3d59&corpId=ding707e3346ab188ded2040d0a6270bd858)
+- [Slack/KusionStack](https://join.slack.com/t/kusionstack/shared_invite/zt-19lqcc3a9-_kTNwagaT5qwBE~my5Lnxg)
+- [钉钉(DingTalk ID 42753001)](https://h5.dingtalk.com/circle/healthCheckin.html?cbdbhh=qwertyuiop&dtaction=os&4ebe6=d3d59&corpId=ding707e3346ab188ded2040d0a6270bd858)
 
 ![](dingding-talk.jpg)
