@@ -1,47 +1,24 @@
-# KusionStack community
+# Community
 
-Welcome to the KusionStack community!
+Welcome to the KusionStack open source community! Your participation is vital for the healthy growth of our open source projects. There are several ways you can get involved. You can create issues or fix bugs, improve documentation, or contribute code by submitting pull requests (PRs). The KusionStack project is always looking for new contributors and feedback. To get in touch, please refer to the links below.
 
-This is the starting point for becoming a contributor - improving code and docs, giving talks, etc.
+* [Open a New Discussion on GitHub](https://github.com/orgs/KusionStack/discussions)
+* [Contact Us on Slack](https://app.slack.com/client/T03H6QE4VL0/setup-welcome)
 
-## KusionStack Open Day
+# CONTRIBUTING
 
-- [2022/open-day/README.md](2022/open-day/README.md)
+We appreciate contributions from the community! To submit changes, please refer to the contributing file in the corresponding KusionStack repository. The files are available at the following links:
+* [Kusion](https://github.com/KusionStack/kusion/blob/main/docs/contributing.md)
+* [Operating](https://github.com/KusionStack/operating/blob/main/docs/contributing.md)
 
-## Other documents
-
-- [Community Roles](ROLES.md) - describes the roles individuals can assume within the KusionStack community.
-- [Working Groups](WORKING-GROUPS.md) - to enhance community transparency and collaboration among community members, KusionStack created a series of  working groups.
-
-## Introduction
-
-KusionStack is a Unified Programmable Configuration Tech Stack.
+# CODE OF CONDUCT
+To make KusionStack a welcoming and harassment-free experience for everyone, we follow the [KusionStack Code of Conduct](CODE_OF_CONDUCT.md).
 
 
-Visit [kusionstack.io](https://kusionstack.io) for more information about using KusionStack.
+# Contact Us
+- Twitter: [KusionStack](https://twitter.com/KusionStack)
+- Slack: [Kusionstack](https://join.slack.com/t/kusionstack/shared_invite/zt-19lqcc3a9-_kTNwagaT5qwBE~my5Lnxg)
+- DingTalk (Chinese): 42753001
+- Wechat Group (Chinese)
 
-## KusionStack authors
-
-KusionStack is an open source project started by [Ant Group](https://www.antgroup.com/) with an active development community.
-
-## Community meeting
-
-- Thursday 8:00 PM CST(Beijing 北京时间周四晚 8:00) ([钉钉(DingTalk ID 42753001)](https://h5.dingtalk.com/circle/healthCheckin.html?cbdbhh=qwertyuiop&dtaction=os&4ebe6=d3d59&corpId=ding707e3346ab188ded2040d0a6270bd858)) every other week
-- Meeting notes: https://github.com/KusionStack/community/discussions/categories/meeting
-
-## Tutorials
-
-Learn KusionStack with book.
-
-- [KusionStack/kusion-in-action-book](https://github.com/KusionStack/kusion-in-action-book)
-
-## Contributing
-
-See [the contributing document](CONTRIBUTING.md).
-
-## Contact
-
-- [Slack/KusionStack](https://join.slack.com/t/kusionstack/shared_invite/zt-19lqcc3a9-_kTNwagaT5qwBE~my5Lnxg)
-- [钉钉(DingTalk ID 42753001)](https://h5.dingtalk.com/circle/healthCheckin.html?cbdbhh=qwertyuiop&dtaction=os&4ebe6=d3d59&corpId=ding707e3346ab188ded2040d0a6270bd858)
-
-![](dingding-talk.jpg)
+  <img src="https://raw.githubusercontent.com/KusionStack/kusion/main/docs/wx_spark.jpg" width="200" height="200"/>
