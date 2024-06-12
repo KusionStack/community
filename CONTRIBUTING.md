@@ -4,7 +4,7 @@ This document explains the common procedures expected by contributors while subm
 
 ## Code of Conduct
 
-Please read athe [Code of Conduct](CODE_OF_CONDUCT.md) before submit your contribution.
+Please read the [Code of Conduct](CODE_OF_CONDUCT.md) before submit your contribution.
 
 ## General workflow
 
