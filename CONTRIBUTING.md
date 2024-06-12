@@ -1,79 +1,21 @@
-# Contributing to KusionStack
+# Contributing to KusionStack Projects
 
-Welcome to KusionStack! KusionStack is a technology stack for building cloud-native Internal Developer Platforms.
+This document explains the common procedures expected by contributors while submitting code to KusionStack projects.
 
-We warmly appreciate your talent and creativity in contributing to this project. This guide will help direct you to the best places to start contributing. Follow the instructions below, you'll be able to pick up issues, write code to fix them, and get your work reviewed and merged.
+## Code of Conduct
 
-Feel free to create issues and contribute your code. Whether you are an experienced developer or just beginning your journey in the open-source world, we highly encourage your participation.
+Please read athe [Code of Conduct](CODE_OF_CONDUCT.md) before submit your contribution.
 
-If you have any questions or need further information, please don't hesitate to contact us.
+## General workflow
 
----
+Once a github issue is accepted and assigned to you, please follow general workflow in order to submit your contribution:
 
-- [Contributing to KusionStack](#contributing-to-kusionstack)
-  - [File an Issue](#file-an-issue)
-  - [Contribute a Pull Request](#contribute-a-pull-request)
-    - [Fork Repository](#fork-repository)
-    - [Develop Code](#develop-code)
-    - [Open a Pull Request](#open-a-pull-request)
-    - [Sign CLA](#sign-cla)
-    - [PR Checks](#pr-checks)
-
-## File an Issue
-
-The first step to start contributing to KusionStack is to find something to work on. Help is always welcome, and no contribution is too small!
-
-Here are some things you can do today to get started contributing:
-
-* Help improve the KusionStack documentation
-* Clarify code, variables, or functions that can be renamed or commented on
-* Write test coverage
-* Help triage issues
-
-We use [issues](https://github.com/KusionStack/kusion/issues) to track tasks. Choose an existing issue with the label `good first issue` or `help wanted` is a good choice, or you can open a new issue. Now, KusionStack provides three issue templates as follows, please choose one according to your need:
-
-* Bug Report: Report a bug encountered while operating KusionStack
-* Enhancement Tracking Issue: Provide supporting details for a feature in development
-* Failing Test: Report continuously failing tests or jobs in KusionStack CI
-
-In the issue, please describe your problem clearly and accurately, and choose a label to define the issue's type. There are the commonly used labels:
-
-* area/release: Categorizes an issue or PR as relevant to releasing
-* area/testing: Categorizes an issue or PR as relevant to testing
-* kind/feature: Categorizes an issue or PR as related to a feature
-* kind/bug: Categorizes an issue or PR as related to a bug
-
-## Contribute a Pull Request
-
-After opening an issue, you could contribute codes to KusionStack by a pull request. Here are the steps you should follow:
-
-### Fork Repository
-
-KusionStack adopts trunk-based development, i.e., the code used for release is maintained on the main branch. To keep the repository tidy, All projects in KusionStack only have the main branch. 
-
-Thus, to develop KusionStack, you have to fork one project in [KusionStack](https://github.com/KusionStack/) repository to your workspace, and then check out a new branch to develop coding.
-
-### Develop Code
-
-Now you can start coding to solve the issue. To maintain the code quality of KusionStack, unit tests are indispensable for the functions you added or updated.
-
-After the development is completed, commit and push to your forked repository. Cause the code will merge into one KusionStack repository by pull request, [commitlint/[config-conventional](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional) should be followed, the legal prefixes for the commit message are shown below:
-
-* build
-* chore
-* ci 
-* docs 
-* feat 
-* fix 
-* perf 
-* refactor 
-* revert 
-* style 
-* test
-
-### Open a Pull Request
-
-[Open a pull request](https://github.com/KusionStack/kusion/pulls) from the develop branch of your forked repository to the main branch of KusionStack. You should clearly describe what you do in the PR, and link it to an issue. Besides, the PR title should also follow the commit conventions described above, and must be 5-256 characters in length, prefix `WIP` and `[WIP]` are not allowed.
+1. Fork the target repository under your github username.
+2. Create a branch in your forked repository for the changes you are about to make.
+3. Commit your changes in the branch you created in step 2. 
+4. Push your commits to your remote fork.
+5. Create a Pull Request from your remote fork pointing to the HEAD branch (usually `main` branch) of the target repository.
+6. Check the github build and ensure that all checks are green.
 
 ### Sign CLA
 
@@ -86,14 +28,8 @@ If your CLA signature failed, you may find the solutions below:
 * The comment must be in the same format as above, with no extra spaces, line breaks, etc.
 * The git committer must be the same one who created the KusionStack PR
 
-### PR Checks
+*Note*: Some projects will provide specific configuration to ensure all commits are signed-off. Please check the project's documentation for more details.
 
-To keep the reliability of the KusionStack project, the following check will get triggered automatically:
+## Tests
 
-* Unit Test
-* E2E Test
-* Golang Lint
-* Commit Lint
-* PR Title lint
-
-Please make sure your PR passes these checks.
+Make sure your changes are properly covered by automated tests. We aim to build an efficient test suite that is low cost to maintain and bring value to project. Prefer writing unit-tests over heavy end-to-end (e2e) tests. However, sometimes e2e tests are necessary. If you aren't sure, ask one of the maintainers about the requirements for your pull-request.
