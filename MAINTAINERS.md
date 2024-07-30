@@ -12,3 +12,4 @@ The following is the list of maintainers for all KusionStack projects, in alphab
 | Yikun Wang      | [Eikykun](https://github.com/Eikykun)             | Maintainer - CtrlMesh                                          | [AntGroup](https://github.com/alipay)            |
 | Zai Chen                | [ffforest](https://github.com/ffforest)                     | Maintainer - Kusion, Karpor                              | [AntGroup](https://github.com/alipay) |
 | Zibo He              | [adohe](https://github.com/adohe)                     | Maintainer - Kusion, Karpor                                               | [AntGroup](https://github.com/alipay)             |
+| Ruquan Zhao              | [ruquanzhao](https://github.com/ruquanzhao)                     | Maintainer - Karpor                                               | [AntGroup](https://github.com/alipay)             |
