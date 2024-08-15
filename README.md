@@ -9,6 +9,10 @@ KusionStack is an open-source tech stack designed to empower platform teams in d
 * [Kusion](https://github.com/KusionStack/kusion) - Intent-Driver Platform Orchestrator
 * [Karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes
 * [Kooperator](https://github.com/KusionStack/operating) - Automation application delivery on Kubernetes
+* More to come...
+
+## Building Blocks
+![scope](img/building_blocks.png)
 
 ## Blogs and Representations
 
