@@ -1,6 +1,7 @@
 # KusionStack - Open Teck Stack for IDP
 
 ![KusionStack Logo](logo/kusionstack-color2.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKusionStack%2Fcommunity.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKusionStack%2Fcommunity?ref=badge_shield)
 
 ## What is KusionStack?
 
@@ -43,3 +44,6 @@ Each KusionStack sub-project might maintains its own contributing guide. Those l
 - KusionStack website: [https://www.kusionstack.io/](https://www.kusionstack.io/)
 - KusionStack Slack: [Join](https://join.slack.com/t/kusionstack/shared_invite/zt-19lqcc3a9-_kTNwagaT5qwBE~my5Lnxg)
 - KusionStack Twitter: [KusionStack](https://twitter.com/KusionStack)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKusionStack%2Fcommunity.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKusionStack%2Fcommunity?ref=badge_large)
