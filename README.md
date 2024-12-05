@@ -7,7 +7,7 @@
 
 KusionStack is an open-source tech stack designed to empower platform teams in developing production-ready, self-service [Internal Developer Platforms](https://internaldeveloperplatform.org/) (IDPs). It provides a comprehensive set of modular components that teams can use to build every layer of their IDPs. These components are both composable and programmable, offering the flexibility to use them as a complete IDP solution or to integrate specific elements into your existing IDP through extensive APIs. Whether you're building from the ground up or enhancing what you have, KusionStack offers the tools to streamline the process.
 
-* [Kusion](https://github.com/KusionStack/kusion) - Intent-Driver Platform Orchestrator
+* [Kusion](https://github.com/KusionStack/kusion) - Intent-Driven Platform Orchestrator
 * [Karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes
 * [Kuperator](https://github.com/KusionStack/operating) - Automation application delivery on Kubernetes
 * More to come...
